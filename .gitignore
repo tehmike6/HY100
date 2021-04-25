@@ -1,0 +1,12 @@
+log.txt
+*.exe
+*.out
+*.d
+*.o
+*.class
+*.jar
+*.DS_Store
+ignore/
+*.pdf
+*.png
+*.jpg
