@@ -5,7 +5,7 @@ log.txt
 *.o
 *.class
 *.jar
-*.DS_Store
+.DS_Store
 ignore/
 *.pdf
 *.png
